@@ -76,7 +76,7 @@ sell time: 2020-01-01 00:12:00
 profit: 7.56
 ```
 
-Please upload your submission onto a private Github repo and share the access to `[codementordev](https://github.com/codementordev)`
+Please create a pull-request once you've done and let us know!
 
 ## Sample Test case:
 
