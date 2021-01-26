@@ -94,4 +94,4 @@ Your submission will be evaluated by:
 - Correctness of the timing suggestions
 - code quality and architecture
 - Good programming practices such as clean code, clear comments, tests
-- Description including project structure, API design
+- Description including algorithm explanation, project structure, API design (Feel free to replace this file with the Description one)
