@@ -52,11 +52,11 @@ Some sample data look like this:
 
 ## Submission
 
-Your submission should have clear instructions on how to run your code.
+Your submission should have clear instructions on how to run your code. Please put the instruction in a file named `INSTRUCTION.md`.
 You can assume that the code will be tested on a fresh installation of Ubuntu 16.04 and will not have any other editors/compilers/modules installed.
 Any additional packages needed need to be specified in your documentation.
 
-Please wrap your application as a command-line executable with the following parameters:
+### 1. Please wrap your application as a command-line executable with the following parameters:
 
 ```
 $ ./suggest-time <window-start-time>, <window-end-time>, <currency-name>
@@ -87,6 +87,8 @@ buy time: 2020-03-13 02:15:00
 sell time: 2020-12-31 00:20:00
 profit: 25369.71
 ```
+
+### 2. Please compute and explain the Time/Space complexities of your algorithm in the file `INSTRUCTION.md`
 
 ## Evaluation
 
