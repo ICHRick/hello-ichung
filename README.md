@@ -29,6 +29,7 @@ Note:
 (2) Please place data in the folder 'assets'.
 
 ## Quick Start
+(Please unzip the squeeze files (suggest-time.zip.001-003) to get the suggest-time.)
 Please wrap your application as a command-line executable with the following parameters:
 
 ```
@@ -56,4 +57,4 @@ sell time: 2020-12-31 00:20:00
 profit: 25369.71
 ```
 ## Source Code
-The folder `Source Code` includes the original code script and files that would pack as the executable file (i.e., suggest-time).
+The folder `Source Code` includes the original code script and files that would packing logs.
